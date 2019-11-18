@@ -1,0 +1,7 @@
+md5: 6323c7a34b2d0107f96cd0d5a47a59db
+outs:
+- md5: 3255c064b18cb14f7e0f46694a368fae
+  path: data.txt
+  cache: true
+  metric: false
+  persist: false
